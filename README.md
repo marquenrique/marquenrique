@@ -17,7 +17,7 @@
 <img align="center" alt="marcos-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="center" alt="marcos-react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="center" alt="marcos-node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="right" alt="dev-pic" height="150" style="border-radius:50px"; src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-abstrato-do-aplicativo-de-pagina-unica-pagina-da-web-do-spa-tendencia-de-desenvolvimento-da-web-aplicativo-dentro-de-um-navegador-pagina-de-reescrita-dinamica-criacao-de-site-responsivo_335657-899.jpg?w=740&t=st=1659038499~exp=1659039099~hmac=beab4de8f2fbdf752fc1f8491f57b0661c7da435853a29286a782b6cbeb81996"/>
+<img align="right" alt="dev-pic" height="150" style="border-radius:50px"; src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_960_720.png"/>
 </div>
 
 ##
