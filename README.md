@@ -1,5 +1,10 @@
 ## Hello world, meu nome é Marcos, sejam bem-vindos ao meu Github!
 
+- 💻 Front-End Dev
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 🖱️ Em busca uma oportunidade como dev Jr ou estagiário
+- 📚 Estudando Node e React
+
 <div>
 <a href="https://www.linkedin.com/in/mhplimadev/">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquenrique&show_icons=true&hide=contribs&theme=nightowl&include_all_comites=true&count_private=true"/>
