@@ -2,7 +2,7 @@
 
 - 💻 Front-End Dev
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 🖱️ Em busca uma oportunidade como dev Jr ou estagiário
+- 🖱️ Em busca de uma oportunidade como dev Jr ou estagiário
 - 📚 Estudando Node e React
 
 <div>
